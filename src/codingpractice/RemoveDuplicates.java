@@ -1,9 +1,8 @@
 package codingpractice;
 
-import java.util.HashSet;
 import java.util.LinkedHashSet;
 
-public class RemoveDuokicates {
+public class RemoveDuplicates {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
